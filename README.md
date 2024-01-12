@@ -25,6 +25,7 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
   <img src="https://img.icons8.com/color/144/000000/kotlin.png"/>
   <img src="https://img.icons8.com/color/144/000000/firebase.png"/>
+  <img src="https://img.icons8.com/color/144/000000/flutter.png"/>
 </p>
 
 <p align="left">
